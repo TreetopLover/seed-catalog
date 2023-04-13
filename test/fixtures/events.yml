@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-04-12 21:23:19
+  time: 2023-04-12 21:23:19
+  title: MyString
+  description: MyString
+  universal: false
+  calendar: one
+
+two:
+  date: 2023-04-12 21:23:19
+  time: 2023-04-12 21:23:19
+  title: MyString
+  description: MyString
+  universal: false
+  calendar: two
